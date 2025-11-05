@@ -1,0 +1,9 @@
+vendor/
+.env
+public/uploads/
+uploads/
+node_modules/
+.idea/
+.vscode/
+*.log
+*.sql
