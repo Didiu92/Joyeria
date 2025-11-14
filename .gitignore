@@ -1,0 +1,75 @@
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Composer files
+composer.phar
+composer.lock
+
+# NPM and package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build and cache directories
+/build/
+/dist/
+/cache/
+/tmp/
+*.cache
+
+# Log files
+*.log
+/logs/
+
+# Environment and configuration files
+.env
+.env.local
+.env.*.local
+config.local.php
+*.local.php
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.project
+.buildpath
+.settings/
+nbproject/
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# PHP specific
+*.php~
+*.php.bak
+phpunit.xml
+.phpunit.result.cache
+/coverage/
+
+# Database files
+*.sql
+*.sqlite
+*.db
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Temporary files
+*.tmp
+*.temp
